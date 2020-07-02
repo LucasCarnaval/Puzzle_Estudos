@@ -1,2 +1,2 @@
 # Puzzle_Estudos
-Desenvolvimento de um jogo puzzle para android
+Desenvolvimento de um jogo puzzle para android.
